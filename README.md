@@ -5,4 +5,4 @@
 ### Instructor: Lawrence Sevigny
   
 ### Students:
-...* Sam Stoodent
+..* Sam Stoodent
