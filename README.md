@@ -20,3 +20,4 @@
 * Kolby Monroe
 * Runda Li
 * Triston Sinclair
+* Trust Migisha
