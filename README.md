@@ -19,3 +19,4 @@
 * Jaxon Fox
 * Kolby Monroe
 * Runda Li
+* Triston Sinclair
