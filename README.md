@@ -12,3 +12,4 @@
 * Adam Hayman
 * Cody Toone
 * Trevor Bergeson
+* Eric Labastida
