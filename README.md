@@ -11,3 +11,4 @@
 * Andy Ford
 * Adam Hayman
 * Cody Toone
+* Trevor Bergeson
