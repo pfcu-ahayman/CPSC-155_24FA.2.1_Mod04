@@ -14,3 +14,4 @@
 * Trevor Bergeson
 * Eric Labastida
 * Jordan Mabbutt
+* Julian Figueroa
